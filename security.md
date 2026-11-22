@@ -201,4 +201,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Age of Empires II: Definitive Edition · Updated 2026-11-21 · Shared under the MIT License*
+*Age of Empires II: Definitive Edition · Updated 2026-11-22 · Shared under the MIT License*
